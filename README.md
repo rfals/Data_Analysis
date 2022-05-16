@@ -1,5 +1,5 @@
 # Data_Analysis
-Data Analysis portfolio with R and Excel consists of 5 projects:
+Data Analysis portfolio with R, Python and Excel consists of 6 projects:
 
 # Excel
 This folder consists of 1 data analysis example in excel. The project analyses beer data and goes in to very extent analysis utilising pivot tables, pivot charts, slicers, and data mapping. The files can not be previewed in excel, therefore feel free to download and go through the analysis that way.
