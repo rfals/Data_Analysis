@@ -1,8 +1,8 @@
-# Crypto Futures Arbitrage
-Is a research project that takes a closer look at newly introduced Solana (SOL) futures on Deribit.  As the futures contracts were introduced less than 2 months ago at the time of this research there is very limited data available, however some contracts are reaching their maturity therefore providing valuable information on how efficient the market is. The project has a vey fast and efficient way of collecting derrivative data from Deribit API.
-
 # Data_Analysis
 Data Analysis portfolio with R, Python and Excel consists of 6 projects:
+
+# Crypto Futures Arbitrage
+Is a research project that takes a closer look at newly introduced Solana (SOL) futures on Deribit.  As the futures contracts were introduced less than 2 months ago at the time of this research there is very limited data available, however some contracts are reaching their maturity therefore providing valuable information on how efficient the market is. The project has a vey fast and efficient way of collecting derrivative data from Deribit API.
 
 # Excel
 This folder consists of 1 data analysis example in excel. The project analyses beer data and goes in to very extent analysis utilising pivot tables, pivot charts, slicers, and data mapping. The files can not be previewed in excel, therefore feel free to download and go through the analysis that way.
