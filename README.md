@@ -1,3 +1,6 @@
+# Crypto Futures Arbitrage
+Is a research project that takes a closer look at newly introduced Solana (SOL) futures on Deribit.  As the futures contracts were introduced less than 2 months ago at the time of this research there is very limited data available, however some contracts are reaching their maturity therefore providing valuable information on how efficient the market is. The project has a vey fast and efficient way of collecting derrivative data from Deribit API.
+
 # Data_Analysis
 Data Analysis portfolio with R, Python and Excel consists of 6 projects:
 
